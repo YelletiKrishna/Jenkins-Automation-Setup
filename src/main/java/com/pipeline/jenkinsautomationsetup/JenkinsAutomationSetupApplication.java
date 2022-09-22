@@ -11,7 +11,7 @@ public class JenkinsAutomationSetupApplication {
 
     @GetMapping
     public String message(){
-        return "welcome to ChaiWorld";
+        return "welcome to ChaiWorld!!";
     }
 
     public static void main(String[] args) {
